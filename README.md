@@ -1,3 +1,3 @@
-#First Heading
-##Second Heading
-###Tird Heading
+# First Heading
+## Second Heading
+### Third Heading
